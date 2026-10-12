@@ -1,0 +1,3 @@
+AI yang digunakan : Qwen 3.8
+Digunakan dari web interface non agentic biar ga tergoda ngeslop hehe
+cara validasi AI -> discuss -> proof -> debugging 

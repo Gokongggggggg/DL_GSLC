@@ -1,0 +1,5 @@
+experiment,mode,augmentation,trainable_params,lr_groups,epochs_run,epoch_converged,duration_sec,val_acc_best,test_acc,test_macro_f1
+B1_scratch,scratch,True,11181642,[0.001],26,22,441.8,0.5867,0.63,0.6238
+B2_feature_extraction,feature_extraction,True,5130,[0.001],30,26,476.1,0.97,0.96,0.9599
+B3_fine_tuning,fine_tune,True,8398858,"[0.0001, 0.001]",10,6,158.6,0.96,0.9633,0.9635
+B4_no_aug,feature_extraction,False,5130,[0.001],30,30,316.9,0.9733,0.9633,0.9634

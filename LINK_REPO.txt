@@ -1,0 +1,3 @@
+Saya kasih link google colab aja : https://colab.research.google.com/drive/1ScptE7SetcI0CaYfdvEsA7sdg0g0V5DP?usp=sharing
+
+karena lebih mudh di run jg kan
